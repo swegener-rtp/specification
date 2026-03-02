@@ -53,7 +53,7 @@ The GEISA VEE scheduler MUST provide:
 Java Language Support
 ^^^^^^^^^^^^^^^^^^^^^
 
-A GEISA-compliant VEE MUST support the Java language specification version 7 or
+A GEISA conformant VEE MUST support the Java language specification version 7 or
 later.
 
 The GEISA VEE MUST implement:
