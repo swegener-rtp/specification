@@ -134,7 +134,7 @@ Security Manager
 ^^^^^^^^^^^^^^^^
 
 A security policy allows the Kernel to prevent an Application from accessing
-resources or calling specific APIs. A GEISA-compliant VEE multi-sandboxed 
+resources or calling specific APIs. A GEISA-conformant VEE multi-sandboxed 
 kernel MUST implement a security manager.
 
 
