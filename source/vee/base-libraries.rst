@@ -15,7 +15,7 @@ Virtual Base Libraries
 GEISA does not specify which virtual runtime to use for the managed-code 
 memory-safe languages.
 
-For Java |reg|, a GEISA-compliant VEE MUST include support for the following 
+For Java |reg|, a GEISA conformant VEE MUST include support for the following 
 class libraries:
 
  * java.io
@@ -29,7 +29,7 @@ class libraries:
 
 Additional libraries may be provided by platforms if desired.
 
-For C and C++, a GEISA compliant VEE MUST provide support for standard libc C 
+For C and C++, a GEISA conformant VEE MUST provide support for standard libc C 
 library with the exception of OS-specific or non-sandbox-friendly functions
 such as ``fork()``/``exec()``, process control, and signals. 
 
