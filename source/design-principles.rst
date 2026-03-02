@@ -109,7 +109,7 @@ GEISA specification assumes.
 
 As much as possible, resources should be reserved for GEISA applications,
 instead of being consumed by the underlying operating system.
-While a GEISA-compliant EE may offer more, it MUST reserve the following 
+While a GEISA conformant EE may offer more, it MUST reserve the following 
 MINIMUM resources available for GEISA applications:
 
 - For GEISA LEE |geisa-lee-tux|:
