@@ -18,7 +18,7 @@ binary compatibility. [#]_  Neverthless, it is important to define
 the expected hardware deployment platform, as it informs a variety
 of design decisions.
 
-A full GEISA compliant platform, including ADM, API, and LEE or VEE 
+A full GEISA conformant platform, including ADM, API, and LEE or VEE 
 interoperability conformance, should be realizable on:
 
 - ARMv7 CPU with NEON extensions
